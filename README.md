@@ -1,3 +1,5 @@
+> Guided practice project (Oct 2024), built by following WsCube Tech's YouTube tutorial. The dataset and the questions come from the tutorial; the workbook and the insights below are my own work-through.
+
 COFFEE SHOP SALES ANALYSIS
 
 TECHNOLOGIES USED: EXCEL
