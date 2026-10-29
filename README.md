@@ -1,26 +1,38 @@
-> Guided practice project (Oct 2024), built by following WsCube Tech's YouTube tutorial. The dataset and the questions come from the tutorial; the workbook and the insights below are my own work-through.
+# Coffee Shop Sales Analysis
 
-COFFEE SHOP SALES ANALYSIS
+> Guided practice project (Oct 2024), built by following WsCube Tech's YouTube tutorial. The dataset and the questions come from the tutorial; I built the workbook myself while following along.
 
-TECHNOLOGIES USED: EXCEL
+An Excel dashboard that shows when, where and what a coffee shop chain sells.
 
-I worked on this project using Excel and Power Query, diving into various processes to uncover sales insights and find answers to some key questions.
+## The data
+About 149,000 sales transactions: date and time, store, product, category, size, quantity and price.
 
-OBJECTIVE- To analyse retail sales data to gain actionable insights that will enhance the performance of the coffee shop.
+## What I did
+- Cleaned and prepared the data in Excel and Power Query.
+- Built 10 pivot tables and 12 charts.
+- Put them on one dashboard sheet, with a slicer to filter it.
 
-QUESTIONS FOR WHICH THE ANALYSIS MUST BE PERFORMED-
-1. How do sales vary by day of the week and hour of the day?
-2. Are there any peal times for sales activity?
+## Questions answered
+1. How do sales change by day of the week and hour of the day?
+2. When are the busiest times?
 3. What is the total sales revenue for each month?
-4. How do sales vary across different store locations?
-5. What is the average price/order per person?
-6. Which products are the best selling in terms of quantity and revenue?
-7. How do sales vary by product category and type?
+4. How do the stores compare?
+5. What is the average order value per person?
+6. Which products sell best, by quantity and by revenue?
+7. How do sales differ by product category and type?
 
-INSIGHTS BASED ON THE ANALYSIS-
-1. Maximum footfall comes between 7am to 11am in the morning as they have large number of orders made.
-2. Highest selling item is "Barista Espresso".
-3. Coffee and tea provides maximum contribution in sales.
-4. Hell's Kitchen performs good as they have maximum sold items and done a good sales.
-5. Regular and large quantity are our maximum sellings products. People prefer this more.
-6. On wednesday we get the highest sales and orders.
+## What I found
+- The busiest time is 7 to 11 in the morning, when most orders come in.
+- The best-selling item is "Barista Espresso".
+- Coffee and tea bring in most of the sales.
+- The Hell's Kitchen store sold the most items.
+- Regular and large sizes sell the most.
+- Wednesday has the highest sales and the most orders.
+
+## Tools
+Excel, Power Query, pivot tables, charts, slicers.
+
+## Files
+- `Coffee Shop Sales Analysis(raw).xlsx`: the raw data
+- `Coffee Shop Sales Analysis.xlsx`: the workbook and the dashboard
+- a screenshot of the dashboard
