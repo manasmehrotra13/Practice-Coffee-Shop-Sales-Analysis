@@ -36,3 +36,7 @@ Excel, Power Query, pivot tables, charts, slicers.
 - `Coffee Shop Sales Analysis(raw).xlsx`: the raw data
 - `Coffee Shop Sales Analysis.xlsx`: the workbook and the dashboard
 - a screenshot of the dashboard
+
+---
+
+Part of my **guided practice projects** (2024, before my internship). [See all my practice repos](https://github.com/manasmehrotra13?tab=repositories&q=Practice&sort=name) · [Back to my profile](https://github.com/manasmehrotra13)
